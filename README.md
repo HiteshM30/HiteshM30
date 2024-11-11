@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
 <h1 align="center">Hi 👋, I'm Hitesh Matharu</h1>
 <h3 align="center">I'm a passionate data science and AI/ML enthusiast currently diving deep into the world of artificial intelligence. As a student at University of Petroleum and Energy Studies, Dehradun, I'm focused on building impactful projects in AIML, and I love exploring how data and algorithms can create innovative solutions.</h3>
-<img align='center' alt='Coding' width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align='right' alt='Coding' width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshm30&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshm30" /> </p>
 
