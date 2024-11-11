@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hitesh Matharu</h1>
 <h3 align="center">I'm a passionate data science and AI/ML enthusiast currently diving deep into the world of artificial intelligence. As a student at University of Petroleum and Energy Studies, Dehradun, I'm focused on building impactful projects in AIML, and I love exploring how data and algorithms can create innovative solutions.</h3>
-<img align='right' alt='Coding' width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align='center' alt='Coding' width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiteshm30" alt="hiteshm30" /></a> </p>
 
