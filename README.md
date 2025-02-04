@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshm30&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshm30" /> </p>
 
-- 🔭 I’m currently working on [Book Summarizer From Scratch](https://github.com/HiteshM30/Book-Summarizer.git)
+- 🔭 I’m currently working on [Hand Gesture Translator with TTS]((https://github.com/HiteshM30/Hand-Gesture-Translator-with-TTS.git))
 
 - 🌱 I’m currently learning **Advanced Neural Networks, Natural Language Processing (NLP), Deep Learning**
 
