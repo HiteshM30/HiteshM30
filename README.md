@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hitesh04matharu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dcwIPutz2SLYcQ2pQMV36sGXoVO-NNE_/view?usp=drive_link](https://drive.google.com/file/d/1dcwIPutz2SLYcQ2pQMV36sGXoVO-NNE_/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tzStgWk38l3Cak1LUHG_tp33f-z7tZUF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
